@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+scikit-learn
+python-dotenv
+email-validator
+openai
+groq
+transformers
+torch
+openpyxl
+bcrypt
